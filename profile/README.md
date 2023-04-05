@@ -13,3 +13,4 @@ there are any bugs that you want to get merged ASAP or consider donating to get 
 - [rusty](https://github.com/monomycelium/rusty)
 - [rustybot](https://github.com/pityhero233/rustybot)
 
+If you would like to get project featured here, don't hesitate to make PR!
